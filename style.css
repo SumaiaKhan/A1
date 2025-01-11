@@ -34,3 +34,10 @@ a{
     padding: 10px;
     border-radius: 10px;
 }
+
+.Taka{
+    background-color: aliceblue;
+}
+.Taka:hover{
+    background-color: chartreuse;
+}
