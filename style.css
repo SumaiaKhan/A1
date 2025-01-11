@@ -8,6 +8,13 @@ header{
     background-color: aquamarine;
     border-radius: 20px;
 }
+section{
+    background-color:cornsilk;
+    padding: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+
+}
 
 article{
     display: flex;
