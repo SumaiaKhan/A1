@@ -34,6 +34,7 @@ a{
     background-color: green;
     padding: 10px;
     border-radius: 10px;
+
 }
 
 .Taka{
@@ -41,4 +42,8 @@ a{
 }
 .Taka:hover{
     background-color: chartreuse;
+}
+
+a:hover{
+    color: red;
 }
